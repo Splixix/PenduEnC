@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1697638582 source:c:\users\coren\documents\codeblock\pendufinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
